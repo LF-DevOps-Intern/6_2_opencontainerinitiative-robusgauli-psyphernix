@@ -41,4 +41,4 @@
         # CREATE TABLE tutors (TID serial PRIMARY KEY, Name VARCHAR (70) NOT NULL, Post VARCHAR (70) NOT NULL);
    ![image](https://user-images.githubusercontent.com/34814966/145544905-d9ab31f8-6d82-44fc-830c-ebbad39e507f.png)
 
-     
+***Note: All YAML configs are in folder [postgreesql](postgreesql).***
